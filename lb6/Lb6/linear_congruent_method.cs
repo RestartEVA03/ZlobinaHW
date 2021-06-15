@@ -108,8 +108,8 @@ namespace Lb6
 
             textBox13.Text = " " + m_arr[0];
             textBox7.Text = " " + d[0];
-            textBox8.Text = " " + m_arr[1];
-            textBox9.Text = " " + d[1];
+            textBox8.Text = " " + d[1];
+            textBox9.Text = " " + m_arr[1];
         }
 
         private void button4_Click(object sender, EventArgs e)
