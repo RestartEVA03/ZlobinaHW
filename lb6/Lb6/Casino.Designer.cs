@@ -67,7 +67,7 @@ namespace Lb6
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(378, 142);
+            this.pictureBox2.Location = new System.Drawing.Point(379, 142);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(146, 201);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -140,6 +140,8 @@ namespace Lb6
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Lb6.Properties.Resources.casino;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1095, 578);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);

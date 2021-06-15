@@ -90,6 +90,8 @@ namespace Lb6
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Lb6.Properties.Resources.menu;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1016, 613);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
