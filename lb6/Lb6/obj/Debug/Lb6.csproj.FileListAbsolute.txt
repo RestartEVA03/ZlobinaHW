@@ -1,0 +1,15 @@
+D:\VM\Lb6\Lb6\bin\Debug\Lb6.exe.config
+D:\VM\Lb6\Lb6\bin\Debug\Lb6.exe
+D:\VM\Lb6\Lb6\bin\Debug\Lb6.pdb
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.csprojAssemblyReference.cache
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.Form1.resources
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.mean_squares.resources
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.Properties.Resources.resources
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.csproj.GenerateResource.cache
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.csproj.CoreCompileInputs.cache
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.exe
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.pdb
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.method_of_median_products.resources
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.stirring_method.resources
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.linear_congruent_method.resources
+D:\VM\Lb6\Lb6\obj\Debug\Lb6.Casino.resources
